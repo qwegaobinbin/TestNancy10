@@ -58,3 +58,6 @@ G:\gitDemoShow\gitDemoSix\Nacy\NancyDemo\obj\Release\NancyC.pdb
 G:\gitDemoShow\gitDemoSix\Nancy\NancyDemo\bin\Release\NancyC.exe.config
 G:\gitDemoShow\gitDemoSix\Nancy\NancyDemo\obj\Release\NancyC.exe
 G:\gitDemoShow\gitDemoSix\Nancy\NancyDemo\obj\Release\NancyC.pdb
+G:\gitDemoShow\Nancy10\Nancy\NancyDemo\bin\Release\NancyC.exe.config
+G:\gitDemoShow\Nancy10\Nancy\NancyDemo\obj\Release\NancyC.exe
+G:\gitDemoShow\Nancy10\Nancy\NancyDemo\obj\Release\NancyC.pdb
